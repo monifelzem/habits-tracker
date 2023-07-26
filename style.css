@@ -37,7 +37,6 @@ button {
 
 #form-habits {
   display: flex;
-
   padding: 182px 48px 48px;
   width: fit-content;
 }
@@ -46,14 +45,13 @@ button {
   margin-top: 60px;
   display: flex;
   flex-direction: column;
-
   gap: 24px;
 }
 
 .habit {
   width: 64px;
   height: 64px;
-  font-size: 32px;
+  font-size: 45px;
   display: center;
   align-items: center;
   justify-content: center;
@@ -73,7 +71,7 @@ button {
 
 .day div {
   margin-bottom: 8px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
   font-size:28px;
   line-height:125%;
   color: #a1a1aa;
